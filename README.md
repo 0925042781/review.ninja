@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/reviewninja/review.ninja.svg?branch=master)](https://travis-ci.org/reviewninja/review.ninja) [![ReviewNinja](https://app.review.ninja/20633049/badge)](https://app.review.ninja/reviewninja/review.ninja) [![Coverage Status](https://img.shields.io/coveralls/reviewninja/review.ninja.svg)](https://coveralls.io/r/reviewninja/review.ninja?branch=master) [![Code Climate](https://codeclimate.com/github/reviewninja/review.ninja.png)](https://codeclimate.com/github/reviewninja/review.ninja)
+[![Build Status](https://travis-ci.org/reviewninja/review.ninja.svg?branch=master)](https://travis-ci.org/reviewninja/review.ninja) [![Coverage Status](https://img.shields.io/coveralls/reviewninja/review.ninja.svg)](https://coveralls.io/r/reviewninja/review.ninja?branch=master) [![Code Climate](https://codeclimate.com/github/reviewninja/review.ninja.png)](https://codeclimate.com/github/reviewninja/review.ninja)
 
 [![Dependency Status](https://david-dm.org/reviewninja/review.ninja.svg)](https://david-dm.org/reviewninja/review.ninja) [![devDependency Status](https://david-dm.org/reviewninja/review.ninja/dev-status.svg)](https://david-dm.org/reviewninja/review.ninja#info=devDependencies)
 
@@ -15,8 +15,8 @@ We have no plans to shut down ReviewNinja, we will provide advanced notice of an
 ReviewNinja - merge with confidence
 ============
 
-<p align="center">
-[![ReviewNinja](https://raw.githubusercontent.com/reviewninja/review.ninja/master/src/client/assets/images/review-ninja-250.png)](http://review.ninja)
+<p align="center">!
+![ReviewNinja](https://raw.githubusercontent.com/reviewninja/review.ninja/master/src/client/assets/images/review-ninja-250.png)
 
 ReviewNinja is a lightweight code review tool that works with GitHub, providing
 a more structured way to use pull requests for code review. ReviewNinja
@@ -39,12 +39,6 @@ Why should I use ReviewNinja?
 ReviewNinja defines a clearer process for code review in GitHub. ReviewNinja
 also provides a status overview, so team members in addition to development can
 understand the state of the project (e.g., product management).
-
-Try ReviewNinja
-----------------
-
-ReviewNinja is provided by SAP as a free hosted offering under: http://review.ninja/.
-Please leave us a GitHub issue if you have feedback.
 
 License
 =======
